@@ -1,1 +1,1 @@
-sudo pacman -S neovide code
+sudo pacman -S neovim code
