@@ -1,1 +1,1 @@
-sudo pacman ghostty
+sudo pacman ghostty ttf-jetbrains-mono-nerd
