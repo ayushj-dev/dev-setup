@@ -21,5 +21,8 @@ source ./scripts/starship.sh
 # Installs neovide & vs code
 source ./scripts/code-editor.sh
 
-#Installs Lazy.nvim
+# Installs Lazy.nvim
 source ./scripts/lazyvim.sh
+
+# Installs Trilium next notes app
+source ./scripts/trilium.sh
